@@ -1,29 +1,45 @@
-ÄBBLERCOIN-LIZENZ 🍏  
-(Angelehnt an die MIT-Lizenz, mit hessischem Einschlag und §-Charme)
+# ÄBBLERCOIN-LIZENZ 🍏  
+*(Inspiriert von der MIT-Lizenz – mit Äppler und Charme)*
 
-Copyright © 2025
+**Copyright © 2025**
 
-§1 Gegenstand der Lizenz  
-Diese Lizenz regelt die Nutzung der Software „Äbblercoin“ (nachfolgend „Software“ genannt), bestehend aus Quellcode, Dokumentation und begleitenden Dateien. Die Software wurde mit Herz, Humor und Python entwickelt – nicht für den Börsengang, sondern für den Spaß.
+---
 
-§2 Nutzungsrechte  
-(1) Die Software darf unentgeltlich genutzt, kopiert, verändert, zusammengeführt, veröffentlicht und weitergegeben werden.  
-(2) Eine kommerzielle Verwertung, insbesondere der Verkauf, ist ausdrücklich **nicht gestattet**.  
-(3) Der Lizenztext sowie der Urheberrechtshinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.  
-(4) Wer behauptet, Äbblercoin erfunden zu haben, ohne wenigstens mal einen Apfel gegessen zu haben, handelt sittenwidrig.
+## 1. Was ist das hier?  
+Du bekommst die Software „Äbblercoin“ – bestehend aus Code, Texten und Dateien.  
+Sie ist ein Prototyp, gebaut mit Herz, Humor und Python.  
+Nicht für Börsen, sondern für Spaß und Lernen.
 
-§3 Haftungsausschluss  
-(1) Die Software wird „wie sie ist“ bereitgestellt – ohne Gewährleistung jedweder Art.  
-(2) Es besteht keine Garantie für Funktion, Stabilität oder Block-Erfolg.  
-(3) Der Lizenzgeber haftet nicht für Schäden, Datenverlust oder das Versagen beim Mining, insbesondere nicht bei gleichzeitiger Einnahme von Äppler.  
-(4) Die Nutzung auf Haushaltsgeräten, Toastern oder Kühlschränken mit Display erfolgt auf eigene Gefahr und wird ausdrücklich nicht empfohlen.
+---
 
-§4 Kontakt & Kommunikation  
-(1) Bei Fragen, Problemen oder Verbesserungsvorschlägen wird um freundliche Kontaktaufnahme gebeten.  
-(2) Babbeln erlaubt – verkaufen verboten.  
-(3) Wer sich nicht meldet, hat selbst Schuld, wenn’s nicht läuft.
+## 2. Was darfst du damit machen?  
+✅ Du darfst sie kostenlos nutzen, kopieren, verändern und weitergeben.  
+🚫 Du darfst sie **nicht verkaufen oder kommerziell nutzen**.  
+📎 Der Lizenztext und der Hinweis auf den Urheber müssen dabei bleiben.  
+🍏 Wer Äbblercoin nutzt, ohne je einen Apfel gegessen zu haben, handelt unszenig.
 
-§5 Schlussbestimmung  
-Diese Lizenz ist gültig in der Bundesrepublik Deutschland und überall, wo man Äppler kennt.  
-Mit Äppler im Herzen und Python im Code –  
-Lang lebe der Äbblercoin 🍏
+---
+
+## 3. Was solltest du wissen?  
+⚠️ Die Software funktioniert „wie sie ist“ – ohne Garantie.  
+💥 Es kann Fehler geben, Abstürze oder Mining ohne Erfolg.  
+🍻 Wenn du gleichzeitig Äppler trinkst, kann’s lustig werden – aber auf eigene Gefahr.  
+🧊 Die Nutzung auf Toastern oder Kühlschränken mit Display ist nicht empfohlen.  
+🔌 Mining verbraucht Strom – wie viel, hängt von deinem Rechner und der Schwierigkeit ab.  
+💸 Die Stromkosten zahlst du selbst – check deinen Anbieter.  
+🌐 Die Software speichert **keine IP-Adressen**, versendet **keine persönlichen Daten** und trackt dich **nicht**.  
+📡 Netzwerkverbindungen passieren nur, wenn du sie selbst aktiv machst.
+
+---
+
+## 4. Wenn du Fragen hast  
+💬 Frag gern, schreib mir, babbel mit mir.  
+🛑 Aber: Verkaufen ist tabu.  
+🤷 Wer sich nicht meldet, muss selbst klarkommen.
+
+---
+
+## 5. Wo gilt das?  
+📍 In Deutschland und überall, wo man Äppler kennt.  
+💚 Mit Äppler im Herzen und Python im Code –  
+**Lang lebe der Äbblercoin 🍏**
